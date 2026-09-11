@@ -1,1 +1,2 @@
-# WL_26_worklog
+Sep. 10th 2026
+Starting at 5:00 pm, I planned to learn some basic R skills required for this lab, as I just got in touch with it yesterday. I know this daily log should only take 5–15 minutes, but it actually took me 20 minutes to create this file and successfully edit it. Hope it works well.
