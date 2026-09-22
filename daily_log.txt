@@ -10,4 +10,4 @@ Started at 9:00 am. After getting used to CooRecorder, my speed increased a lot,
 
 Sept. 21st, 2026
 Started at 9:00 am. Checked the pairs of samples with CorrC values less than 0.4. Some of them were corrected, but for others, after trying to add and remove a few points, the CorrC was still less than 0.4. Finished at 11:00 am.
-Met with Mao to return the USB flash drive that I used to install CooRecorder. She mentioned that our lab has two ongoing projects, one involving germs in the soil that may lead to results soon, and the other using data from another lab that is still quite messy. Interesting.
+At 12:00pm, I met with Mao to return the USB flash drive that I used to install CooRecorder. She mentioned that our lab has two ongoing projects, one involving germs in the soil that may lead to results soon, and the other using data from another lab that is still quite messy. Interesting.
